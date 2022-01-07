@@ -83,5 +83,11 @@
 ### install sublime-text
 ``` brew cask install sublime-text ```
 
+### install minikube 
+``` brew install minikube ```
+
+### install install terraform
+``` brew install terraform ```
+
 
 
