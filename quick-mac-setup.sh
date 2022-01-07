@@ -11,7 +11,7 @@ xcode-select --install
 curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh
 
 # Set Path 
-# Noete - Please change the username before use 
+# Note - Please change the username before use 
 echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/ajeet/.zprofile
 
 brew doctor
