@@ -87,5 +87,10 @@ brew cask install sublime-text
 # install jetbrains-toolbox
 brew install --cask jetbrains-toolbox
 
+# install minikube 
+brew install minikube
+
+# install install terraform
+brew install terraform
 
 
