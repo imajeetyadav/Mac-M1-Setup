@@ -57,6 +57,9 @@ brew install --cask google-chrome
 # install node
 brew install node
 
+# install golang
+brew install go
+
 # install azure-data-studio
 brew cask install azure-data-studio
 
@@ -75,7 +78,7 @@ brew install microsoft-azure-storage-explorer
 # install ngrok
 brew cask install ngrok
 
-#install postman
+# install postman
 brew cask install postman
 
 # install visual studio code
@@ -90,7 +93,9 @@ brew install --cask jetbrains-toolbox
 # install minikube 
 brew install minikube
 
-# install install terraform
+# install terraform
 brew install terraform
 
+# install httpie
+brew install httpie
 
