@@ -61,13 +61,13 @@ brew install node
 brew install go
 
 # install azure-data-studio
-brew cask install azure-data-studio
+brew install --cask azure-data-studio
 
 # install google chrome 
-brew cask install google-chrome
+brew install --cask google-chrome
 
 # install docker
-brew cask install docker
+brew install --cask docker
 
 # install java
 brew install openjdk
@@ -79,13 +79,13 @@ brew install microsoft-azure-storage-explorer
 brew cask install ngrok
 
 # install postman
-brew cask install postman
+brew install --cask postman
 
 # install visual studio code
-brew cask install visual-studio-code
+brew install --cask visual-studio-code
 
 # install sublime-text
-brew cask install sublime-text
+brew install --cask sublime-text
 
 # install jetbrains-toolbox
 brew install --cask jetbrains-toolbox
@@ -98,4 +98,7 @@ brew install terraform
 
 # install httpie
 brew install httpie
+
+# install canva
+brew install --cask canva
 
