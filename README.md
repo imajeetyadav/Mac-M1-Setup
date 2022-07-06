@@ -63,7 +63,7 @@
 ``` brew install --cask google-chrome ```
 
 ### install docker
-``` brew cask install docker ```
+``` brew install --cask docker ```
 
 ### install java
 ``` brew install openjdk ```
