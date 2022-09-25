@@ -93,3 +93,12 @@
 
 ### install canva
 ``` brew install --cask canva ```
+
+
+
+You can also display the app switcher on all monitors with the following undocumented preference:
+```
+defaults write com.apple.dock appswitcher-all-displays -bool true
+killall Dock
+```
+This works on Monterey, Big Sur, Catalina, Mojave, and possibly older versions as well.
