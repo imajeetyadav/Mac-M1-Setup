@@ -51,6 +51,11 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 # Enforce Changes
 source ~/.zshrc
 
+# brew Path Issue after installing ZSH
+echo export PATH=$PATH:/opt/homebrew/bin >> .zshrc
+# Enforce Changes
+source ~/.zshrc
+
 # install google chrome 
 brew install --cask google-chrome
 
